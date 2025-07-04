@@ -1,6 +1,6 @@
 # 🔔 Monitoring & Alerting Stack with Prometheus
 
-![Screenshot](RealTime.png)
+![Screenshot](repoflow.png)
 
 This guide walks you through setting up a powerful and production-ready monitoring and alerting stack using multiple tools on two Ubuntu EC2 instances (Monitoring & VM).
 
